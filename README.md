@@ -82,7 +82,4 @@ update BaseModel `1234-1234-1234 email "aibnb@holbertonschool.com"`
 
 `Quit the shell`
 
-## Authors
 
-- [@Ginakalu](https://github.com/Ginakalu) - Georgina Kalu
-- [@Veralee225](https://github.com/Veralee225) - Vera Adiele
